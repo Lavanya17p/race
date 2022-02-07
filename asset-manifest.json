@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/race/static/css/main.bfef333c.css",
+    "main.js": "/race/static/js/main.c5455ccd.js",
+    "static/media/options-bg.jpg": "/race/static/media/options-bg.751f4fd00591db59aeff.jpg",
+    "static/media/handling-bg.jpg": "/race/static/media/handling-bg.ce46849b2263efd1ebf7.jpg",
+    "static/media/power-bg.jpg": "/race/static/media/power-bg.84425e49e4c3e66303b3.jpg",
+    "static/media/contact-bg.jpg": "/race/static/media/contact-bg.6f2977c9fcb1ab7d3ec9.jpg",
+    "static/media/speed-bg.jpg": "/race/static/media/speed-bg.b62889516a4c546b7b22.jpg",
+    "index.html": "/race/index.html",
+    "main.bfef333c.css.map": "/race/static/css/main.bfef333c.css.map",
+    "main.c5455ccd.js.map": "/race/static/js/main.c5455ccd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfef333c.css",
+    "static/js/main.c5455ccd.js"
+  ]
+}
