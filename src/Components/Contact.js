@@ -61,9 +61,10 @@ const ContactStyled = styled.div`
     .bottom {
       display: flex;
       justify-content: center;
-      width: 100%;
+      /* width: 100%; */
       max-width: 600px;
       margin-bottom: 1rem;
+      align-items: center;
     }
     form {
       max-width: 600px;
@@ -94,6 +95,14 @@ const ContactStyled = styled.div`
             color: #333;
           }
         }
+      }
+    }
+  }
+
+  @media screen and (max-width: 375px) {
+    .container {
+      .top {
+        margin-top: 0px;
       }
     }
   }
